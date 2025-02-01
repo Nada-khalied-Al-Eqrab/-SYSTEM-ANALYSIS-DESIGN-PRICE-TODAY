@@ -55,6 +55,3 @@ The following diagrams will be created as part of the system analysis and design
 
 Contributions are welcome! Please submit a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License.
